@@ -1,5 +1,5 @@
 variables:
-  dockerId: weatherman
+  dockerId: weatherman1
   pswd: AaDEvIaB929swKJie9li0Sx9Ict2l//uNqzJNaJsdq+ACRBrZx3w
   imageName: weathermanbb5639
 
